@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Belajar Widget"),
+        title: Text("Belajar Widget di Flutter"),
       ),
       body:Container(
         child:  Form(
